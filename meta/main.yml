@@ -1,6 +1,6 @@
 galaxy_info:
   author: liam somerville
-  description: Ansible Galaxy role for Python Responder
+  description: Installs Python Responder
   company: N/A
   license: BSD
   min_ansible_version: 1.2
