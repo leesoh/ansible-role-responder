@@ -16,7 +16,7 @@ responder_git_location: '/opt'
 Dependencies
 ------------
 
-None
+leesoh.git
 
 Example Playbook
 ----------------
