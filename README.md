@@ -34,4 +34,5 @@ BSD
 
 Author Information
 ------------------
+
 Python Responder: https://github.com/lgandx/Responder
