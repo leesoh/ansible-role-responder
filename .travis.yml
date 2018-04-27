@@ -13,7 +13,7 @@ script:
     - ansible-galaxy install leesoh.responder
     - ansible-playbook -i tests/inventory tests/test.yml --syntax-check
     - ansible-playbook -i tests/inventory tests/test.yml --connection=local
-    - /opt/Responder.py --help
+    - /opt/responder/Responder.py --help
 
 notifications:
   webhooks: https://galaxy.ansible.com/api/v1/notifications/
